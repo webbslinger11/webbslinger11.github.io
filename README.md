@@ -1,2 +1,2 @@
 # webbslinger11.github.io
-Personal Website 
+A personal website project by Dakotah Webb made during his internship at Lawrence Livermore National Lab
