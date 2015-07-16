@@ -1,28 +1,45 @@
 ---
 layout: default
-title: Index
+title: Home
 ---
 
-<div class="hero-unit">
-<p><h1>Hello, world!</h1>
-<p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-<p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p></p></div>
 
-<div class="row">
-<!-- Main hero unit for a primary marketing message or call to action -->
+<div class="jumbotron">
+  <div class="container">
+    <h1>Dakotah Webb</h1>
+    <h2><b> Aspiring college student </b></h2>
+    <p>Currently studying Mechanical Engineering and Applied Mathematics.</p>
+    <p>NAIA Collegiate Track & Field and Cross Country Athlete.</p>
+    <p>Life Fulfillments: Music, Family, Friends, and Running.</p> 
+    <p><a class="btn btn-primary btn-lg" href="about.html" role="button">Learn more &raquo;</a></p>
+  </div>
+</div>
 
-<p><div class="span4">
-<h2>Heading</h2>
-<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
+<div class="container">
+  	<div class="row">
+	    <div class="col-md-4">
+	      <center>
+	      <h2>Work Experience</h2>
+	      <img src="Data/media/images/Work-Experience.jpg" class="thumbnail">
+	      <p>Currently, I am a summer intern for the Lawrence Livermore National Lab in Livermore, CA working in the computation department. My work experience prior to now is quite vast and different from most standard youth.</p>
+	      <br>
+	      <p><a class="btn btn-default" href="work_experience.html" role="button" style="color:red">View details &raquo;</a></p>
+	    </div>
+	    <div class="col-md-4">
+	      <center>
+	      <h2>College Career</h2>
+	       <img src="Data/media/images/OIT logo.png" class="thumbnail">
+	      <p>I am a Junior at OIT double-majoring in Mechanical Engineering and Applied Mathematics with hopes of going to Graduate School to study Biomechanical Engineering. </p>
+	      <br>
+	      <p><a class="btn btn-default" href="oit.html" role="button" style="color:navy">View details &raquo;</a></p>
+	   </div>
+	    <div class="col-md-4">
+	      <center>
+	      <h2>Running</h2>
+	      <img src="Data/media/images/Running.jpg" class="thumbnail">
+	      <p>National qualifier in Indoor Track in the 1000m as well as a national qualifier in Outdoor Track in the 1500m. Other events include 800m and 5000m. Cross country courses (standard) in the NAIA are 8000m.</p>
+	      <br>
+	      <p><a class="btn btn-default" href="running_college.html" role="button" style="color:orange">View details &raquo;</a></p>
+	    </div>
+	</div>
 </div>
-<div class="span4">
-<h2>Heading</h2>
-<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
-</div>
-<div class="span4">
-<h2>Heading</h2>
-<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
-</div></p></div> 
