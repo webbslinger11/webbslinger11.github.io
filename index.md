@@ -7,11 +7,11 @@ title: Home
 <div class="jumbotron">
   <div class="container">
     <h1>Dakotah Webb</h1>
-    <h2><b> Aspiring college student </b></h2>
+    <h2><b> Thriving college student </b></h2>
     <p>Currently studying Mechanical Engineering and Applied Mathematics.</p>
     <p>NAIA Collegiate Track & Field and Cross Country Athlete.</p>
     <p>Life Fulfillments: Music, Family, Friends, and Running.</p> 
-    <p><a class="btn btn-primary btn-lg" href="about.html" role="button">Learn more &raquo;</a></p>
+    <p><a class="btn btn-primary btn-lg" href="about.html" role="button" style="color:white">Learn more &raquo;</a></p>
   </div>
 </div>
 
